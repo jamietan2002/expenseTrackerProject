@@ -1,0 +1,73 @@
+
+.doughnut-chart {
+  background-color: #ffffff;
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+}
+
+.category-container {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.add-button {
+  background-color: #336699;
+  border: none;
+  border-radius: 50%;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.category-button {
+  background-color: #336699;
+  border: none;
+  border-radius: 50%;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.add-button:hover {
+  background-color: #23557e;
+}
+
+.table-container {
+  display: flex;
+  justify-content: center;
+}
+
+.expense-table {
+  width: 100%;
+
+}
+
+.expense-table td {
+  padding: 8px;
+  font-size: 16px;
+}
+
+.expense-table th {
+  background-color: #96C2DB;
+  font-weight: bold;
+  font-size: 18px;
+
+}
+
+.expense-table .date-row {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.expense-table .delete-icon {
+  cursor: pointer;
+}
+
+
+
+
+
+
+

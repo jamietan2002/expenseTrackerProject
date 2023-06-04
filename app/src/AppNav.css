@@ -1,0 +1,17 @@
+
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+  background-color: #336699;
+}
+
+.nav-text {
+  font-size: 44px;
+  font-weight: bold;
+  color: #96C2DB;
+
+  text-transform: uppercase;
+}
