@@ -1,6 +1,8 @@
 # Expense Tracker 
 This is an Expense Tracker application built using React.js, Java Spring Boot, and MySQL. The application allows users to track their expenses, categorize them, and view expenses by category in a doughnut chart. It provides a convenient way to manage personal finances.
 
+![App Image](public/ExpenseTracker.png)
+
 # Features
 - Expense Management: Users can add, edit, and delete expenses. Each expense can be associated with a specific month and category.
 
